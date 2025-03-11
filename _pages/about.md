@@ -29,6 +29,20 @@ My research interests mainly include graph data mining, especially on topics lik
 - *2023.09*: &nbsp;🎉🎉 Our paper on cross-links debias is accepted by [NeurIPS 2023](https://neurips.cc/), accept rate 26.1%. 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/libragnn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Controllable Hybrid Fairness in Graph Neural Networks](https://arxiv.org/abs/2406.03052)
+
+**Zihan Luo**, Hong Huang, Jianxun Lian, Xiran Song, Hai Jin
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:W7OEmFMy1HYC'></span></strong>
+- A node-injection-based fairness attack framework on GNNs.
+- [Code](https://github.com/LuoZhhh/NIFA) \| [Vedio](https://www.bilibili.com/video/BV1i5UQYNEeX/?share_source=copy_web&vd_source=9196fa9a82ed33188b75c84264f0f084).
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NIFA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
