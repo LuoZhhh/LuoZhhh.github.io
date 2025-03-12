@@ -18,7 +18,7 @@ redirect_from:
 
 Hello, I am Zihan Luo, a CS Ph.D. candidate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST), where I am fortunate to be supervised by Professor [Hong Huang](https://faculty.hust.edu.cn/honghuang/en/index.htm) and Senior Researcher [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/). Before that, I received my Bachelor degree in Electronic Engineering from HUST in 2020, and was fortunate to be advised by Professor [Rui Yin](https://rayin-saber.github.io/yinrui.github.io/) from 2019-2020.
 
-My research interests mainly include graph data mining, especially on topics like Large Language Models (LLM), fairness and bias. I have published several papers at the top international AI conferences and journals with  <a href='https://scholar.google.com/citations?user=JWUJkawAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLuoZhhh%2Fluozhhh.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interests mainly include large language models and graph data mining, especially on topics like fairness and bias. I have published several papers at the top international AI conferences and journals with  <a href='https://scholar.google.com/citations?user=JWUJkawAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLuoZhhh%2Fluozhhh.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
@@ -38,7 +38,6 @@ My research interests mainly include graph data mining, especially on topics lik
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:W7OEmFMy1HYC'></span></strong>
 - A multi-teacher knowledge distillation framework for addressing multiple kinds of fairness simultaneously.
-- [Code](https://github.com/LuoZhhh/NIFA) \| [Vedio](https://www.bilibili.com/video/BV1i5UQYNEeX/?share_source=copy_web&vd_source=9196fa9a82ed33188b75c84264f0f084).
 </div>
 </div>
 
