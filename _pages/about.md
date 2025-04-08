@@ -160,7 +160,7 @@ Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh
 - *2016.09 - 2020.06*, [School of Electronic Information and Communication](https://ei.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Bachelor.
 
 # 💻 Internships
-- *2024.09 - Now*, [Zhipu AI](https://www.zhipuai.cn/), Beijing, China.
+- *2024.09 - 2025.03*, [Zhipu AI](https://www.zhipuai.cn/), Beijing, China.
   - Internship on LLM Alignment
   - Mentor: [Zhenyu Hou](https://scholar.google.com/citations?user=44W9SfwAAAAJ)
 
