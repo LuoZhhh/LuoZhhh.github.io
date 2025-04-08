@@ -32,7 +32,7 @@ My research interests mainly include large language models and graph data mining
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/libragnn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Controllable Hybrid Fairness in Graph Neural Networks](https://arxiv.org/abs/2406.03052)
+[Towards Controllable Hybrid Fairness in Graph Neural Networks](https://dl.acm.org/doi/10.1145/3690624.3709224)
 
 **Zihan Luo**, Hong Huang, Jianxun Lian, Xiran Song, Hai Jin
 
