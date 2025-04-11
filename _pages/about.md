@@ -165,7 +165,7 @@ Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh
   - Mentor: [Zhenyu Hou](https://scholar.google.com/citations?user=44W9SfwAAAAJ)
 
 # 💬 Service
-- Reviewer for COLM 2025.
+- Reviewer for COLM 2025, NeurIPS 2025.
 - Reviewer for Frontiers of Computer Science.
 
 <div style="width: 25%">
