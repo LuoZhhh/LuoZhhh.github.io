@@ -19,7 +19,7 @@ redirect_from:
 Hello, I am Zihan Luo, a third-year CS Ph.D. candidate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST), where I am fortunate to be supervised by Professor [Hong Huang](https://faculty.hust.edu.cn/honghuang/en/index.htm) and Senior Researcher [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/). Before that, I received my Bachelor degree in Electronic Engineering from HUST in 2020, and was fortunate to be advised by Professor [Rui Yin](https://rayin-saber.github.io/yinrui.github.io/) from 2019-2020.
 
 My research interests mainly include large language models and graph data mining, especially on topics like fairness and bias. I have published several papers at the top international AI conferences and journals with <a href='https://scholar.google.com/citations?user=JWUJkawAAAAJ'>
-  <img src="https://img.icons8.com/color/48/000000/google-scholar.png" alt="Scholar" style="height:24px">
+  <img src="https://badgen.net/badge/Google/Scholar/blue?icon=google" alt="Scholar">
 </a>
 
 
