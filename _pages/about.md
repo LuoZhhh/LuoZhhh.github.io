@@ -167,11 +167,11 @@ Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh
 # 💬 Service
 **Program Committee Members**
 - Reviewer for [COLM 2025](https://colmweb.org/)
-- Reviewer for [NeurIPS 2025](https://neurips.cc/Conferences/2025).
+- Reviewer for [NeurIPS 2025](https://neurips.cc/Conferences/2025)
 
 **Transactions Reviewer**
 - Reviewer for [FCS](https://link.springer.com/journal/11704)
-- Reviewer for [TOIT](https://dl.acm.org/journal/toit).
+- Reviewer for [TOIT](https://dl.acm.org/journal/toit)
 
 <div style="width: 25%">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=abE_g9Z_jUhmkdimTMzMNVbaYRqEl2VF7OykTZVgvKc"></script>
