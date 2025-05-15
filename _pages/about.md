@@ -150,7 +150,7 @@ Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh
 
 # 🎖 Honors and Awards
 - Academic Scholarship, *2020.09*, *2021.09*, *2022.09*, *2023.09*.  
-- Huawei Scholarship, *2022.06*. 
+- Huawei Scholarship, *2022.06*, *2025.05*. 
 - Tencent Scholarship, *2022.03*.
 - Finalist Award (Top 1%) at The Mathematical Contest in Modeling *2019*.
 
