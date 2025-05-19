@@ -23,10 +23,6 @@ My research interests mainly include large language models and graph data mining
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 Our paper on GNN hybrid fairness is accepted by [KDD 2025](https://kdd2025.kdd.org/), accept rate 19%. See you in Toronto!
-- *2024.09*: &nbsp;🎉🎉 Our paper on GNN fairness attacks [NIFA](https://arxiv.org/abs/2406.03052) is accepted by NeurIPS 2024, accept rate 25.8%. See you in Vancouver!
-- *2024.03*: &nbsp;🎉🎉 Our paper on empowering LLMs with graph reasoning capability [GraphInstruct](https://arxiv.org/abs/2403.04483) is released on Arxiv.
-- *2023.11*: &nbsp;🎉🎉 I am invited to give a spotlight sharing for our NeurIPS 2023 paper at [MLA 2023 conference](https://www.lamda.nju.edu.cn/conf/mla23/index.html). 
-- *2023.09*: &nbsp;🎉🎉 Our paper on cross-links debias is accepted by [NeurIPS 2023](https://neurips.cc/), accept rate 26.1%. 
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/libragnn.png' alt="sym" width="100%"></div></div>
