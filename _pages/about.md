@@ -22,9 +22,24 @@ My research interests mainly include large language models and graph data mining
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 Our paper on GNN hybrid fairness is accepted by [KDD 2025](https://kdd2025.kdd.org/), accept rate 19%. See you in Toronto!
+- *2025.10*: &nbsp;🎉🎉 GraphInstruct is accepted by Frontiers of Computer Science (CCF-T1).
+- *2024.11*: &nbsp;🎉🎉 Our paper on GNN hybrid fairness is accepted by KDD 2025 (CCF-A), accept rate 19%.
+- *2024.09*: &nbsp;🎉🎉 Our paper on graph fairness attacks is accepted by NeurIPS 2024 (CCF-A), accept rate 25.8%.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers of Computer Science</div><img src='images/graphinstruct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability](https://arxiv.org/abs/2403.04483)
+
+**Zihan Luo**, Xiran Song, Hong Huang, Jianxun Lian, Chenhao Zhang, Jinqi Jiang, Xing Xie, Hai Jin
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+- A comprehensive benchmark GraphInstruct on enhancing and improving the graph understanding and reasoning capability.
+- [Code](https://github.com/CGCL-codes/GraphInstruct).
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/libragnn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -51,19 +66,6 @@ My research interests mainly include large language models and graph data mining
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/graphinstruct.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability](https://arxiv.org/abs/2403.04483)
-
-**Zihan Luo**, Xiran Song, Hong Huang, Jianxun Lian, Chenhao Zhang, Jinqi Jiang, Xing Xie, Hai Jin
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:Tyk-4Ss8FVUC'></span></strong>
-- A comprehensive benchmark GraphInstruct on enhancing and improving the graph understanding and reasoning capability.
-- [Code](https://github.com/CGCL-codes/GraphInstruct).
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/neurips2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
