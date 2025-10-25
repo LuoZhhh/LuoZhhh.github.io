@@ -147,6 +147,7 @@ Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh
 </div>
 
 # 🎖 Honors and Awards
+- National Scholarship, *2025.09*.
 - Academic Scholarship, *2020.09*, *2021.09*, *2022.09*, *2023.09*.  
 - Huawei Scholarship, *2022.06*, *2025.05*. 
 - Tencent Scholarship, *2022.03*.
@@ -159,7 +160,7 @@ Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh
 
 # 💻 Internships
 - *2024.09 - 2025.03*, [Zhipu AI](https://www.zhipuai.cn/en/), Beijing, China.
-  - Internship on LLM Alignment
+  - Internship on LLM Alignment for Machine Learning Engineering.
   - Mentor: [Zhenyu Hou](https://scholar.google.com/citations?user=44W9SfwAAAAJ)
 
 # 💬 Service
