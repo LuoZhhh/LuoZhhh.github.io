@@ -165,6 +165,7 @@ Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh
 
 # 💬 Service
 **Program Committee Members**
+- Reviewer for [WWW 2026](https://www2026.thewebconf.org/)
 - Reviewer for [COLM 2025](https://colmweb.org/)
 - Reviewer for [NeurIPS 2025](https://neurips.cc/Conferences/2025)
 
