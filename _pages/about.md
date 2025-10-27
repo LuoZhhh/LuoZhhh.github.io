@@ -22,9 +22,9 @@ My research interests mainly include large language models and graph data mining
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 GraphInstruct is accepted by Frontiers of Computer Science (CCF-T1).
-- *2024.11*: &nbsp;🎉🎉 Our paper on GNN hybrid fairness is accepted by KDD 2025 (CCF-A), accept rate 19%.
-- *2024.09*: &nbsp;🎉🎉 Our paper on graph fairness attacks is accepted by NeurIPS 2024 (CCF-A), accept rate 25.8%.
+- *2025.10*: &nbsp;🎉🎉 [GraphInstruct](https://arxiv.org/abs/2403.04483) is accepted by Frontiers of Computer Science (CCF-T1). Please check out!
+- *2024.11*: &nbsp;🎉🎉 One paper on GNN hybrid fairness is accepted by KDD 2025 (CCF-A), accept rate 19%.
+- *2024.09*: &nbsp;🎉🎉 One paper on graph fairness attacks is accepted by NeurIPS 2024 (CCF-A), accept rate 25.8%.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers of Computer Science</div><img src='images/graphinstruct.png' alt="sym" width="100%"></div></div>
