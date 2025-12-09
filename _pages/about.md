@@ -22,9 +22,9 @@ My research interests mainly include large language models and graph data mining
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 [GraphInstruct](https://arxiv.org/abs/2403.04483) is accepted by Frontiers of Computer Science **(CCF-T1)**. Please check out!
-- *2024.11*: &nbsp;🎉🎉 One paper on GNN hybrid fairness is accepted by KDD 2025 **(CCF-A)**, accept rate 19%.
-- *2024.09*: &nbsp;🎉🎉 One paper on graph fairness attacks is accepted by NeurIPS 2024 **(CCF-A)**, accept rate 25.8%.
+- <span style="color:#FC4E2A">[*2025.10*]</span>: &nbsp;🎉🎉 [GraphInstruct](https://arxiv.org/abs/2403.04483) is accepted by Frontiers of Computer Science **(CCF-T1)**. Please check out!
+- <span style="color:#FC4E2A">[*2024.11*]</span>: &nbsp;🎉🎉 One paper on GNN hybrid fairness is accepted by KDD 2025 **(CCF-A)**, accept rate 19%.
+- <span style="color:#FC4E2A">[*2024.09*]</span>: &nbsp;🎉🎉 One paper on graph fairness attacks is accepted by NeurIPS 2024 **(CCF-A)**, accept rate 25.8%.
 
 # 📝 Publications 
 - <span style="color:#337AB7">[**Frontiers of Computer Science**]</span> **Zihan Luo**, Xiran Song, Hong Huang, Jianxun Lian, Chenhao Zhang, Jinqi Jiang, Xing Xie, Hai Jin. **GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability.**
