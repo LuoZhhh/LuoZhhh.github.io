@@ -42,7 +42,7 @@ My research interests mainly include large language models and graph data mining
 - <span style="color:#337AB7">[**WWW'23**]</span> Xiran Song, Jianxun Lian, Hong Huang, **Zihan Luo**, Wei Zhou, Xue Lin, Mingqi Wu, Chaozhuo Li, Xing Xie, Hai Jin. **xGCN: An Extreme Graph Convolutional Network for Large-scale Social Link Prediction.**
   In *ACM Web Conference (WWW)*, 2023. (<span style="color:#FC4E2A">CCF-A</span>) [[PAPER](https://dl.acm.org/doi/10.1145/3543507.3583340)] [[CODE](https://github.com/CGCL-codes/XGCN_library)] [[Youtube](https://www.youtube.com/watch?v=8yedOmd_3Fw)]
 
-- <span style="color:#337AB7">[**JBI**]</span> Rui Yin\*, **Zihan Luo**\*, Pei Zhuang, Chee Keong Kwoh, Zhuoyi Lin. **ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences.**
+- <span style="color:#337AB7">[**Journal of Biomedical Informatics**]</span> Rui Yin\*, **Zihan Luo**\*, Pei Zhuang, Chee Keong Kwoh, Zhuoyi Lin. **ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences.**
   In *Journal of Biomedical Informatics (JBI)*, 2023. (<span style="color:#FC4E2A">CCF-C</span>) [[PAPER](https://www.biorxiv.org/content/biorxiv/early/2022/03/27/2022.03.24.485635.full.pdf)] [[CODE](https://github.com/Rayin-saber/ViPal)]
 
 - <span style="color:#337AB7">[**WSDM'22**]</span> **Zihan Luo**, Jianxun Lian, Hong Huang, Xing Xie, Hai Jin. **xGCN: An Extreme Graph Convolutional Network for Large-scale Social Link Prediction.**
