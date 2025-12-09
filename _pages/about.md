@@ -59,8 +59,7 @@ My research interests mainly include large language models and graph data mining
 - Finalist Award (Top 1%) at The Mathematical Contest in Modeling *2019*.
 
 # 📖 Educations
-- *2022.09 - 2026.06 (Expected)*, [School of Computer Science and Technology](https://cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Ph.D. Candidate.
-- *2020.09 - 2022.06*, [School of Computer Science and Technology](https://cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Master. 
+- *2020.09 - 2026.06 (Expected)*, [School of Computer Science and Technology](https://cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Ph.D. Candidate.
 - *2016.09 - 2020.06*, [School of Electronic Information and Communication](https://ei.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Bachelor.
 
 # 💻 Internships
