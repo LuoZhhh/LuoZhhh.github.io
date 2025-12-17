@@ -48,7 +48,7 @@ My research interests mainly include large language models and graph data mining
 - <span style="color:#337AB7">[**WSDM'22**]</span> **Zihan Luo**, Jianxun Lian, Hong Huang, Xing Xie, Hai Jin. **xGCN: An Extreme Graph Convolutional Network for Large-scale Social Link Prediction.**
   In *ACM International Conference on Web Search and Data Mining (WSDM)*, 2022. (<span style="color:#FC4E2A">CCF-B</span>) [[PAPER](https://dl.acm.org/doi/abs/10.1145/3488560.3498460)] [[CODE](https://github.com/LuoZhhh/Ada-GNN)]
 
-- <span style="color:#337AB7">[**Bioinformatics**]</span> Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh. **VirPreNet: a weighted ensemble convolutional neural network for the virulence prediction of influenza A virus using all eight segments.**
+- <span style="color:#337AB7">[**Bioinformatics**]</span> Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh. **VirPreNet: A Weighted Ensemble Convolutional Neural Network for the Virulence Prediction of Influenza A Virus Using All Eight Segments.**
   In *Bioinformatics*, 2021. (<span style="color:#FC4E2A">CCF-B</span>) [[PAPER](https://www.biorxiv.org/content/biorxiv/early/2020/07/31/2020.07.31.230904.full.pdf)] [[CODE](https://github.com/Rayin-saber/VirPreNet)]
 
 # 🎖 Honors and Awards
