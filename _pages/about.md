@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Zihan Luo, a final-year CS Ph.D. candidate at Huazhong University of Science and Technology (HUST) <img src='./images/hust.png' style="width: 4em;">, where I am fortunate to be supervised by Professor [Hong Huang (黄宏)](https://faculty.hust.edu.cn/honghuang/en/index.htm) and Principal Researcher [Jianxun Lian (练建勋)](https://www.microsoft.com/en-us/research/people/jialia/) from Microsoft Research Asia <img src='./images/microsoft_logo.svg' style="width: 4em;">. Before that, I received my Bachelor degree in Electronic Engineering from HUST <img src='./images/hust.png' style="width: 4em;"> in 2020, and was fortunate to work closely with Professor [Rui Yin (尹睿)](https://rayin-saber.github.io/yinrui.github.io/) from University of Florida <img src='./images/ufl.webp' style="width: 4em;">.
+Hello, I am Zihan Luo, a final-year CS Ph.D. candidate at Huazhong University of Science and Technology (HUST) <img src='./images/hust.png' style="width: 4em;">, where I am fortunate to be supervised by Professor [Hong Huang (黄宏)](https://faculty.hust.edu.cn/honghuang/en/index.htm) and Principal Researcher [Jianxun Lian (练建勋)](https://www.microsoft.com/en-us/research/people/jialia/) from Microsoft Research Asia <img src='./images/microsoft_logo.svg' style="width: 4em;">. Before that, I received my Bachelor degree in Electronic Engineering from HUST <img src='./images/hust.png' style="width: 4em;"> in 2020, and was fortunate to work closely with Professor [Rui Yin (尹睿)](https://rayin-saber.github.io/yinrui.github.io/) from University of Florida <img src='./images/ufl.webp' style="width: 4em;">. 
 
 My research interests mainly include large language models and graph data mining, especially on topics like fairness and bias. I have published several papers at the top international AI conferences and journals with  <a href='https://scholar.google.com/citations?user=JWUJkawAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLuoZhhh%2Fluozhhh.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -57,10 +57,6 @@ My research interests mainly include large language models and graph data mining
 - Huawei Scholarship, *2022.06*, *2025.05*. 
 - Tencent Scholarship, *2022.03*.
 - Finalist Award (Top 1%) at The Mathematical Contest in Modeling *2019*.
-
-# 📖 Educations
-- *2020.09 - 2026.06 (Expected)*, [School of Computer Science and Technology](https://cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Ph.D. Candidate.
-- *2016.09 - 2020.06*, [School of Electronic Information and Communication](https://ei.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Bachelor.
 
 # 💻 Internships
 - *2024.09 - 2025.03*, [Zhipu AI](https://www.zhipuai.cn/en/) <img src='./images/zhipu-color (1).svg' style="width: 1.5em;"><img src='./images/zhipu-text (1).svg' style="width: 2.5em;">, Beijing, China.
