@@ -59,7 +59,7 @@ My research interests mainly include large language models and graph data mining
 - Finalist Award (Top 1%) at The Mathematical Contest in Modeling *2019*.
 
 # 💻 Internships
-- *2026.01 - Now*, OPPO <img src='./images/OPPO.svg' style="width: 4em;">, Beijing, China.
+- *2026.01 - Now*, OPPO <img src='./images/OPPO.svg' style="width: 3em;">, Beijing, China.
   - Internship on LLM Alignment for In-conversation Recommendation.
 - *2024.09 - 2025.03*, [Zhipu AI](https://www.zhipuai.cn/en/) <img src='./images/zhipu-color (1).svg' style="width: 1.5em;"><img src='./images/zhipu-text (1).svg' style="width: 2.5em;">, Beijing, China.
   - Internship on LLM Alignment for Machine Learning Engineering.
