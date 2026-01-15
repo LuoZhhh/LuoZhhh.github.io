@@ -60,7 +60,7 @@ My research interests mainly include large language models and graph data mining
 
 # 💻 Internships
 - *2026.01 - Now*, OPPO <img src='./images/Oppo-Logo.wine.svg' style="width: 3em;">, Beijing, China.
-  - Internship on LLM Alignment for In-conversation Recommendation.
+  - Internship on LLM-based In-conversation Recommendation.
 - *2024.09 - 2025.03*, [Zhipu AI](https://www.zhipuai.cn/en/) <img src='./images/zhipu-color (1).svg' style="width: 1.5em;"><img src='./images/zhipu-text (1).svg' style="width: 2.5em;">, Beijing, China.
   - Internship on LLM Alignment for Machine Learning Engineering.
   - Mentor: [Zhenyu Hou](https://scholar.google.com/citations?user=44W9SfwAAAAJ)
