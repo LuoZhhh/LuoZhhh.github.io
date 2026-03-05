@@ -52,7 +52,7 @@ My research interests mainly include large language models and graph data mining
   In *Current Genomics*, 2021. [[PAPER](https://www.benthamdirect.com/content/journals/cg/10.2174/1389202923666211221110857)] [[CODE](https://github.com/Rayin-saber/Alignment-free-lethality-prediction-of-coronavirus)]
 
 - <span style="color:#337AB7">[**Bioinformatics**]</span> Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh. **VirPreNet: A Weighted Ensemble Convolutional Neural Network for the Virulence Prediction of Influenza A Virus Using All Eight Segments.**
-  In *Bioinformatics*, 2021. (<span style="color:#FC4E2A">CCF-B</span>) [[PAPER](https://www.biorxiv.org/content/biorxiv/early/2020/07/31/2020.07.31.230904.full.pdf)] [[CODE](https://github.com/Rayin-saber/VirPreNet)]
+  In *Bioinformatics*, 2021. (<span style="color:#FC4E2A">CCF-A</span>) [[PAPER](https://www.biorxiv.org/content/biorxiv/early/2020/07/31/2020.07.31.230904.full.pdf)] [[CODE](https://github.com/Rayin-saber/VirPreNet)]
 
 # 🎖 Honors and Awards
 - National Scholarship, *2025.09*.
