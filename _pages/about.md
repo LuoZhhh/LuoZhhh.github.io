@@ -28,6 +28,9 @@ My research interests mainly include large language models and graph data mining
 - <span style="color:#FC4E2A">[*2024.09*]</span>: &nbsp;🎉🎉 One paper on graph fairness attacks is accepted by **NeurIPS 2024**, accept rate 25.8%.
 
 # 📝 Publications 
+- <span style="color:#337AB7">[**ACL'26**]</span> **Zihan Luo**, Hong Huang, Jianxun Lian, Yu Chang, Xing Xie, Hai Jin. **Can AI Revise Research Papers with Human Review Feedback? An Empirical Study and Benchmark.**
+  In *the Annual Meeting of the Association for Computational Linguistics (ACL)*, 2025. (<span style="color:#FC4E2A">CCF-A</span>)
+
 - <span style="color:#337AB7">[**Frontiers of Computer Science**]</span> **Zihan Luo**, Xiran Song, Hong Huang, Jianxun Lian, Chenhao Zhang, Jinqi Jiang, Xing Xie, Hai Jin. **GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability.**
   In *Frontiers of Computer Science (FCS)*, 2025. (<span style="color:#FC4E2A">CCF-T1</span>) [[PAPER](https://arxiv.org/abs/2403.04483)] [[CODE](https://github.com/CGCL-codes/GraphInstruct)] 
 
