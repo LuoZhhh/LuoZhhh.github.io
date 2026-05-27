@@ -23,13 +23,14 @@ My research interests mainly include large language models and graph data mining
 
 # 🔥 News
 - <span style="color:#FC4E2A">[*2026.04*]</span>: &nbsp;🎉🎉 One paper on evaluation of LLM-based paper revision is accepted by **ACL 2026** as findings, accept rate 18%.
+- <span style="color:#FC4E2A">[*2026.01*]</span>: &nbsp; I am invited to serve as the reviewer for **COLM 2026**.
 - <span style="color:#FC4E2A">[*2025.10*]</span>: &nbsp;🎉🎉 [GraphInstruct](https://arxiv.org/abs/2403.04483) is accepted by **Frontiers of Computer Science**. Please check out!
 - <span style="color:#FC4E2A">[*2024.11*]</span>: &nbsp;🎉🎉 One paper on GNN hybrid fairness is accepted by **KDD 2025**, accept rate 19%.
 - <span style="color:#FC4E2A">[*2024.09*]</span>: &nbsp;🎉🎉 One paper on graph fairness attacks is accepted by **NeurIPS 2024**, accept rate 25.8%.
 
 # 📝 Publications 
 - <span style="color:#337AB7">[**ACL'26**]</span> **Zihan Luo**, Hong Huang, Jianxun Lian, Yu Chang, Xing Xie, Hai Jin. **Can AI Revise Research Papers with Human Review Feedback? An Empirical Study and Benchmark.**
-  In *the Findings of Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. (<span style="color:#FC4E2A">CCF-A</span>)
+  In *Findings of Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. (<span style="color:#FC4E2A">CCF-A</span>)
 
 - <span style="color:#337AB7">[**Frontiers of Computer Science**]</span> **Zihan Luo**, Xiran Song, Hong Huang, Jianxun Lian, Chenhao Zhang, Jinqi Jiang, Xing Xie, Hai Jin. **GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability.**
   In *Frontiers of Computer Science (FCS)*, 2025. (<span style="color:#FC4E2A">CCF-T1</span>) [[PAPER](https://arxiv.org/abs/2403.04483)] [[CODE](https://github.com/CGCL-codes/GraphInstruct)] 
@@ -71,16 +72,6 @@ My research interests mainly include large language models and graph data mining
 - *2024.09 - 2025.03*, [Zhipu AI](https://www.zhipuai.cn/en/) <img src='./images/zhipu-color (1).svg' style="width: 1.5em;"><img src='./images/zhipu-text (1).svg' style="width: 2.5em;">, Beijing, China.
   - Internship on LLM Alignment for Machine Learning Engineering.
   - Mentor: [Zhenyu Hou](https://scholar.google.com/citations?user=44W9SfwAAAAJ)
-
-# 💬 Service
-**Program Committee Members**
-- Reviewer for [WWW 2026](https://www2026.thewebconf.org/)
-- Reviewer for [COLM 2025](https://colmweb.org/)
-- Reviewer for [NeurIPS 2025](https://neurips.cc/Conferences/2025)
-
-**Transactions Reviewer**
-- Reviewer for [FCS](https://link.springer.com/journal/11704)
-- Reviewer for [TOIT](https://dl.acm.org/journal/toit)
 
 <div style="width: 25%">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=abE_g9Z_jUhmkdimTMzMNVbaYRqEl2VF7OykTZVgvKc"></script>
