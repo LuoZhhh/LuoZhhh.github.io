@@ -22,11 +22,11 @@ My research interests mainly include large language models and graph data mining
 
 
 # 🔥 News
-- <span style="color:#FC4E2A">[*2026.04*]</span>: &nbsp;🎉🎉 One paper on evaluation of LLM-based paper revision is accepted by **ACL 2026** as findings, accept rate 18%.
+- <span style="color:#FC4E2A">[*2026.04*]</span>: &nbsp; One paper on evaluation of LLM-based paper revision is accepted by **ACL 2026** as findings, accept rate 18%.
 - <span style="color:#FC4E2A">[*2026.01*]</span>: &nbsp; I am invited to serve as the reviewer for **COLM 2026**.
-- <span style="color:#FC4E2A">[*2025.10*]</span>: &nbsp;🎉🎉 [GraphInstruct](https://arxiv.org/abs/2403.04483) is accepted by **Frontiers of Computer Science**. Please check out!
-- <span style="color:#FC4E2A">[*2024.11*]</span>: &nbsp;🎉🎉 One paper on GNN hybrid fairness is accepted by **KDD 2025**, accept rate 19%.
-- <span style="color:#FC4E2A">[*2024.09*]</span>: &nbsp;🎉🎉 One paper on graph fairness attacks is accepted by **NeurIPS 2024**, accept rate 25.8%.
+- <span style="color:#FC4E2A">[*2025.10*]</span>: &nbsp; [GraphInstruct](https://arxiv.org/abs/2403.04483) is accepted by **Frontiers of Computer Science**. Please check out!
+- <span style="color:#FC4E2A">[*2024.11*]</span>: &nbsp; One paper on GNN hybrid fairness is accepted by **KDD 2025**, accept rate 19%.
+- <span style="color:#FC4E2A">[*2024.09*]</span>: &nbsp; One paper on graph fairness attacks is accepted by **NeurIPS 2024**, accept rate 25.8%.
 
 # 📝 Publications 
 - <span style="color:#337AB7">[**ACL'26**]</span> **Zihan Luo**, Hong Huang, Jianxun Lian, Yu Chang, Xing Xie, Hai Jin. **Can AI Revise Research Papers with Human Review Feedback? An Empirical Study and Benchmark.**
