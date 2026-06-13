@@ -23,15 +23,27 @@ My research interests mainly include large language models and graph data mining
 
 # 🔥 News
 
-<div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #f0f0f0; border-radius: 5px; margin-bottom: 20px;">
-
-- <span style="color:#FC4E2A">[*2026.06*]</span>: &nbsp; [ToolRec](https://arxiv.org/abs/2606.08466) is released on arxiv. Please check out!
-- <span style="color:#FC4E2A">[*2026.04*]</span>: &nbsp; One paper on evaluation of LLM-based paper revision is accepted by **ACL 2026** as findings, accept rate 18%.
-- <span style="color:#FC4E2A">[*2026.01*]</span>: &nbsp; I am invited to serve as the reviewer for **COLM 2026**.
-- <span style="color:#FC4E2A">[*2025.10*]</span>: &nbsp; [GraphInstruct](https://arxiv.org/abs/2403.04483) is accepted by **Frontiers of Computer Science**. Please check out!
-- <span style="color:#FC4E2A">[*2024.11*]</span>: &nbsp; One paper on GNN hybrid fairness is accepted by **KDD 2025**, accept rate 19%.
-- <span style="color:#FC4E2A">[*2024.09*]</span>: &nbsp; One paper on graph fairness attacks is accepted by **NeurIPS 2024**, accept rate 25.8%.
-
+<div style="max-height: 250px; overflow-y: auto; padding: 15px; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 20px; background-color: #fafafa;">
+  <ul style="margin: 0; padding-left: 20px;">
+    <li style="margin-bottom: 10px;">
+      <span style="color:#FC4E2A"><b>[2026.06]</b></span>: &nbsp; <a href="https://arxiv.org/abs/2606.08466" target="_blank">ToolRec</a> is released on arxiv. Please check out!
+    </li>
+    <li style="margin-bottom: 10px;">
+      <span style="color:#FC4E2A"><b>[2026.04]</b></span>: &nbsp; One paper on evaluation of LLM-based paper revision is accepted by <b>ACL 2026</b> as findings, accept rate 18%.
+    </li>
+    <li style="margin-bottom: 10px;">
+      <span style="color:#FC4E2A"><b>[2026.01]</b></span>: &nbsp; I am invited to serve as the reviewer for <b>COLM 2026</b>.
+    </li>
+    <li style="margin-bottom: 10px;">
+      <span style="color:#FC4E2A"><b>[2025.10]</b></span>: &nbsp; <a href="https://arxiv.org/abs/2403.04483" target="_blank">GraphInstruct</a> is accepted by <b>Frontiers of Computer Science</b>. Please check out!
+    </li>
+    <li style="margin-bottom: 10px;">
+      <span style="color:#FC4E2A"><b>[2024.11]</b></span>: &nbsp; One paper on GNN hybrid fairness is accepted by <b>KDD 2025</b>, accept rate 19%.
+    </li>
+    <li style="margin-bottom: 0;">
+      <span style="color:#FC4E2A"><b>[2024.09]</b></span>: &nbsp; One paper on graph fairness attacks is accepted by <b>NeurIPS 2024</b>, accept rate 25.8%.
+    </li>
+  </ul>
 </div>
 
 # 📝 Publications 
