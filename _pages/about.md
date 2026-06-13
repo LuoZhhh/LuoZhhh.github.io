@@ -22,7 +22,7 @@ My research interests mainly include large language models and graph data mining
 
 
 # 🔥 News
-- <span style="color:#FC4E2A">[*2026.04*]</span>: &nbsp; [ToolRec](https://arxiv.org/abs/2606.08466) is released on arxiv. Please check out!
+- <span style="color:#FC4E2A">[*2026.06*]</span>: &nbsp; [ToolRec](https://arxiv.org/abs/2606.08466) is released on arxiv. Please check out!
 - <span style="color:#FC4E2A">[*2026.04*]</span>: &nbsp; One paper on evaluation of LLM-based paper revision is accepted by **ACL 2026** as findings, accept rate 18%.
 - <span style="color:#FC4E2A">[*2026.01*]</span>: &nbsp; I am invited to serve as the reviewer for **COLM 2026**.
 - <span style="color:#FC4E2A">[*2025.10*]</span>: &nbsp; [GraphInstruct](https://arxiv.org/abs/2403.04483) is accepted by **Frontiers of Computer Science**. Please check out!
