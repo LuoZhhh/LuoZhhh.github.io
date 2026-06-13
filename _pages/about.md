@@ -22,6 +22,7 @@ My research interests mainly include large language models and graph data mining
 
 
 # 🔥 News
+- <span style="color:#FC4E2A">[*2026.04*]</span>: &nbsp; [ToolRec](https://arxiv.org/abs/2606.08466) is released on arxiv. Please check out!
 - <span style="color:#FC4E2A">[*2026.04*]</span>: &nbsp; One paper on evaluation of LLM-based paper revision is accepted by **ACL 2026** as findings, accept rate 18%.
 - <span style="color:#FC4E2A">[*2026.01*]</span>: &nbsp; I am invited to serve as the reviewer for **COLM 2026**.
 - <span style="color:#FC4E2A">[*2025.10*]</span>: &nbsp; [GraphInstruct](https://arxiv.org/abs/2403.04483) is accepted by **Frontiers of Computer Science**. Please check out!
@@ -29,6 +30,9 @@ My research interests mainly include large language models and graph data mining
 - <span style="color:#FC4E2A">[*2024.09*]</span>: &nbsp; One paper on graph fairness attacks is accepted by **NeurIPS 2024**, accept rate 25.8%.
 
 # 📝 Publications 
+- <span style="color:#337AB7">[**Preprint**]</span> **Zihan Luo**, Lingkui Chen, Ruike Zhang, Hong Huang, Boyang Zhang, Ziniu Chen, Lizhong Wang. **ToolRec: Calibrated Preference Alignment for Query Recommendation in On-Device Assistants.**
+  Under review.
+
 - <span style="color:#337AB7">[**ACL'26**]</span> **Zihan Luo**, Hong Huang, Jianxun Lian, Yu Chang, Xing Xie, Hai Jin. **Can AI Revise Research Papers with Human Review Feedback? An Empirical Study and Benchmark.**
   In *Findings of Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. (<span style="color:#FC4E2A">CCF-A</span>)
 
@@ -67,7 +71,7 @@ My research interests mainly include large language models and graph data mining
 - Finalist Award (Top 1%) at The Mathematical Contest in Modeling *2019*.
 
 # 💻 Internships
-- *2026.01 - Now*, OPPO <img src='./images/Oppo-Logo.wine.svg' style="width: 3em;">, Beijing, China.
+- *2026.01 - 2026.04*, OPPO <img src='./images/Oppo-Logo.wine.svg' style="width: 3em;">, Beijing, China.
   - Internship on LLM-based In-conversation Recommendation.
 - *2024.09 - 2025.03*, [Zhipu AI](https://www.zhipuai.cn/en/) <img src='./images/zhipu-color (1).svg' style="width: 1.5em;"><img src='./images/zhipu-text (1).svg' style="width: 2.5em;">, Beijing, China.
   - Internship on LLM Alignment for Machine Learning Engineering.
