@@ -22,12 +22,17 @@ My research interests mainly include large language models and graph data mining
 
 
 # 🔥 News
+
+<div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #f0f0f0; border-radius: 5px; margin-bottom: 20px;">
+
 - <span style="color:#FC4E2A">[*2026.06*]</span>: &nbsp; [ToolRec](https://arxiv.org/abs/2606.08466) is released on arxiv. Please check out!
 - <span style="color:#FC4E2A">[*2026.04*]</span>: &nbsp; One paper on evaluation of LLM-based paper revision is accepted by **ACL 2026** as findings, accept rate 18%.
 - <span style="color:#FC4E2A">[*2026.01*]</span>: &nbsp; I am invited to serve as the reviewer for **COLM 2026**.
 - <span style="color:#FC4E2A">[*2025.10*]</span>: &nbsp; [GraphInstruct](https://arxiv.org/abs/2403.04483) is accepted by **Frontiers of Computer Science**. Please check out!
 - <span style="color:#FC4E2A">[*2024.11*]</span>: &nbsp; One paper on GNN hybrid fairness is accepted by **KDD 2025**, accept rate 19%.
 - <span style="color:#FC4E2A">[*2024.09*]</span>: &nbsp; One paper on graph fairness attacks is accepted by **NeurIPS 2024**, accept rate 25.8%.
+
+</div>
 
 # 📝 Publications 
 - <span style="color:#337AB7">[**Preprint**]</span> **Zihan Luo**, Lingkui Chen, Ruike Zhang, Hong Huang, Boyang Zhang, Ziniu Chen, Lizhong Wang. **ToolRec: Calibrated Preference Alignment for Query Recommendation in On-Device Assistants.**
