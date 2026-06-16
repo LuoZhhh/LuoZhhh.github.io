@@ -23,7 +23,7 @@ My research interests mainly include large language models and graph data mining
 
 # 🔥 News
 
-<div style="max-height: 250px; overflow-y: auto; padding: 15px; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 20px; background-color: #fafafa;">
+<div style="max-height: 180px; overflow-y: auto; padding: 15px; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 20px; background-color: #fafafa;">
   <ul style="margin: 0; padding-left: 20px;">
     <li style="margin-bottom: 10px;">
       <span style="color:#FC4E2A"><b>[2026.06]</b></span>: &nbsp; <a href="https://arxiv.org/abs/2606.08466" target="_blank">ToolRec</a> is released on arxiv. Please check out!
