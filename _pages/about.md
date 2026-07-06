@@ -16,9 +16,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Zihan Luo, a final-year CS Ph.D. candidate at Huazhong University of Science and Technology (HUST) <img src='./images/hust.png' style="width: 4em;">, where I am fortunate to be supervised by Professor [Hong Huang (黄宏)](https://faculty.hust.edu.cn/honghuang/en/index.htm) and Principal Researcher [Jianxun Lian (练建勋)](https://www.microsoft.com/en-us/research/people/jialia/) from Microsoft Research Asia <img src='./images/microsoft_logo.svg' style="width: 4em;">. Before that, I received my Bachelor degree in Electronic Engineering from HUST <img src='./images/hust.png' style="width: 4em;"> in 2020, and was fortunate to work closely with Professor [Rui Yin (尹睿)](https://rayin-saber.github.io/yinrui.github.io/) from University of Florida <img src='./images/ufl.webp' style="width: 4em;">.
+Hello, I am Zihan Luo, currently an Assistant Researcher at Chongqing University (CQU) <img src='./images/CQU.webp' style="width: 4em;">. I received my Ph.D. in Computer Science from Huazhong University of Science and Technology (HUST) <img src='./images/hust.png' style="width: 4em;">, where I was fortunate to be supervised by Professor [Hong Huang (黄宏)](https://faculty.hust.edu.cn/honghuang/en/index.htm) and Principal Researcher [Jianxun Lian (练建勋)](https://www.microsoft.com/en-us/research/people/jialia/) from Microsoft Research Asia <img src='./images/microsoft_logo.svg' style="width: 4em;">. Before that, I received my Bachelor's degree in Electronic Engineering from HUST <img src='./images/hust.png' style="width: 4em;"> in 2020, and was fortunate to work closely with Professor [Rui Yin (尹睿)](https://rayin-saber.github.io/yinrui.github.io/) from the University of Florida <img src='./images/ufl.webp' style="width: 4em;">. During my academic journey, I also enriched my research experience through internships at **Zhipu AI** <img src='./images/zhipu-color (1).svg' style="width: 1.5em;"> (focusing on LLM Alignment for Machine Learning Engineering) and **OPPO** <img src='./images/Oppo-Logo.wine.svg' style="width: 3em;"> (working on LLM-based in-conversation recommendation). I actively serve the academic community as a reviewer for top-tier venues such as **NeurIPS, KDD, WWW, and Frontiers of Computer Science**.
 
-My research interests mainly include large language models and graph data mining, especially on topics like trustworthy AI, societal AI, and AI4Science. I have published several papers at the top international AI conferences and journals with  <a href='https://scholar.google.com/citations?user=JWUJkawAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLuoZhhh%2Fluozhhh.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are interested in potential collaborative opportunities, please feel free to contact me.
+## 🔬 Research Interests
+
+My research broadly lies at the intersection of **Large Language Models (LLMs)** and **Graph Data Mining**. I am deeply passionate about building AI systems that are not only intelligent but also robust, reliable, and beneficial to society. My current research focuses on:
+
+*   **Trustworthy AI:** Enhancing the fairness, robustness, and interpretability of Graph Neural Networks and LLMs against biases and adversarial attacks.
+*   **Societal AI & Alignment:** Calibrating and aligning large language models with human preference and exploring the mutual enhancement between complex AI systems and interdisciplinary fields such as sociology and psychology.
+
+**✨ Prospective Students & Collaborators:**
+> I am always on the lookout for highly self-motivated undergraduate and graduate students to join my research group. If you are passionate about LLMs, data mining, or trustworthy AI, and are driven by a strong curiosity to solve impactful real-world problems, I would love to hear from you! Please feel free to drop me an email with your CV and a brief introduction of your background. You can check my full publication list on <a href='https://scholar.google.com/citations?user=JWUJkawAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLuoZhhh%2Fluozhhh.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" style="display:inline-block; vertical-align:middle;"></a>.
 
 
 # 🔥 News
@@ -79,17 +87,3 @@ My research interests mainly include large language models and graph data mining
 
 - <span style="color:#337AB7">[**Bioinformatics**]</span> Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh. **VirPreNet: A Weighted Ensemble Convolutional Neural Network for the Virulence Prediction of Influenza A Virus Using All Eight Segments.**
   In *Bioinformatics*, 2021. (<span style="color:#FC4E2A">CCF-A</span>) [[PAPER](https://www.biorxiv.org/content/biorxiv/early/2020/07/31/2020.07.31.230904.full.pdf)] [[CODE](https://github.com/Rayin-saber/VirPreNet)]
-
-# 🎖 Honors and Awards
-- National Scholarship, *2025.09*.
-- Academic Scholarship, *2020.09*, *2021.09*, *2022.09*, *2023.09*.  
-- Huawei Scholarship, *2022.06*, *2025.05*. 
-- Tencent Scholarship, *2022.03*.
-- Finalist Award (Top 1%) at The Mathematical Contest in Modeling *2019*.
-
-# 💻 Internships
-- *2026.01 - 2026.04*, OPPO <img src='./images/Oppo-Logo.wine.svg' style="width: 3em;">, Beijing, China.
-  - Internship on LLM-based In-conversation Recommendation.
-- *2024.09 - 2025.03*, [Zhipu AI](https://www.zhipuai.cn/en/) <img src='./images/zhipu-color (1).svg' style="width: 1.5em;"><img src='./images/zhipu-text (1).svg' style="width: 2.5em;">, Beijing, China.
-  - Internship on LLM Alignment for Machine Learning Engineering.
-  - Mentor: [Zhenyu Hou](https://scholar.google.com/citations?user=44W9SfwAAAAJ)
