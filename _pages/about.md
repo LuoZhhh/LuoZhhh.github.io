@@ -32,22 +32,22 @@ My research broadly lies at the intersection of **Large Language Models (LLMs)**
 <div style="max-height: 180px; overflow-y: auto; padding: 15px; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 20px; background-color: #fafafa;">
   <ul style="margin: 0; padding-left: 20px;">
     <li style="margin-bottom: 10px;">
-      <span style="color:#FC4E2A"><b>[2026.06]</b></span>: &nbsp; <a href="https://arxiv.org/abs/2606.08466" target="_blank">ToolRec</a> is released on arxiv. Please check out!
+      <span style="color:#af5a57"><b>[2026.06]</b></span>: &nbsp; <a href="https://arxiv.org/abs/2606.08466" target="_blank">ToolRec</a> is released on arxiv. Please check out!
     </li>
     <li style="margin-bottom: 10px;">
-      <span style="color:#FC4E2A"><b>[2026.04]</b></span>: &nbsp; One paper on evaluation of LLM-based paper revision is accepted by <b>ACL 2026</b> as findings, accept rate 18%.
+      <span style="color:#af5a57"><b>[2026.04]</b></span>: &nbsp; One paper on evaluation of LLM-based paper revision is accepted by <b>ACL 2026</b> as findings, accept rate 18%.
     </li>
     <li style="margin-bottom: 10px;">
-      <span style="color:#FC4E2A"><b>[2026.01]</b></span>: &nbsp; I am invited to serve as the reviewer for <b>COLM 2026</b>.
+      <span style="color:#af5a57"><b>[2026.01]</b></span>: &nbsp; I am invited to serve as the reviewer for <b>COLM 2026</b>.
     </li>
     <li style="margin-bottom: 10px;">
-      <span style="color:#FC4E2A"><b>[2025.10]</b></span>: &nbsp; <a href="https://arxiv.org/abs/2403.04483" target="_blank">GraphInstruct</a> is accepted by <b>Frontiers of Computer Science</b>. Please check out!
+      <span style="color:#af5a57"><b>[2025.10]</b></span>: &nbsp; <a href="https://arxiv.org/abs/2403.04483" target="_blank">GraphInstruct</a> is accepted by <b>Frontiers of Computer Science</b>. Please check out!
     </li>
     <li style="margin-bottom: 10px;">
-      <span style="color:#FC4E2A"><b>[2024.11]</b></span>: &nbsp; One paper on GNN hybrid fairness is accepted by <b>KDD 2025</b>, accept rate 19%.
+      <span style="color:#af5a57"><b>[2024.11]</b></span>: &nbsp; One paper on GNN hybrid fairness is accepted by <b>KDD 2025</b>, accept rate 19%.
     </li>
     <li style="margin-bottom: 0;">
-      <span style="color:#FC4E2A"><b>[2024.09]</b></span>: &nbsp; One paper on graph fairness attacks is accepted by <b>NeurIPS 2024</b>, accept rate 25.8%.
+      <span style="color:#af5a57"><b>[2024.09]</b></span>: &nbsp; One paper on graph fairness attacks is accepted by <b>NeurIPS 2024</b>, accept rate 25.8%.
     </li>
   </ul>
 </div>
@@ -57,31 +57,31 @@ My research broadly lies at the intersection of **Large Language Models (LLMs)**
   Under review. [[PAPER](https://arxiv.org/abs/2606.08466)]
 
 - <span style="color:#337AB7">[**ACL'26**]</span> **Zihan Luo**, Hong Huang, Jianxun Lian, Yu Chang, Xing Xie, Hai Jin. **Can AI Revise Research Papers with Human Review Feedback? An Empirical Study and Benchmark.**
-  In *Findings of Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. (<span style="color:#FC4E2A">CCF-A</span>) [[CODE](https://github.com/CGCL-codes/ReviseBench)] 
+  In *Findings of Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. (<span style="color:#af5a57">CCF-A</span>) [[CODE](https://github.com/CGCL-codes/ReviseBench)] 
 
 - <span style="color:#337AB7">[**Frontiers of Computer Science**]</span> **Zihan Luo**, Xiran Song, Hong Huang, Jianxun Lian, Chenhao Zhang, Jinqi Jiang, Xing Xie, Hai Jin. **GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability.**
-  In *Frontiers of Computer Science (FCS)*, 2025. (<span style="color:#FC4E2A">CCF-T1</span>) [[PAPER](https://arxiv.org/abs/2403.04483)] [[CODE](https://github.com/CGCL-codes/GraphInstruct)] 
+  In *Frontiers of Computer Science (FCS)*, 2025. (<span style="color:#af5a57">CCF-T1</span>) [[PAPER](https://arxiv.org/abs/2403.04483)] [[CODE](https://github.com/CGCL-codes/GraphInstruct)] 
 
 - <span style="color:#337AB7">[**KDD'25**]</span> **Zihan Luo**, Hong Huang, Jianxun Lian, Xiran Song, Hai Jin. **Towards Controllable Hybrid Fairness in Graph Neural Networks.**
-  In *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2025. (<span style="color:#FC4E2A">CCF-A</span>) [[PAPER](https://dl.acm.org/doi/10.1145/3690624.3709224)]
+  In *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2025. (<span style="color:#af5a57">CCF-A</span>) [[PAPER](https://dl.acm.org/doi/10.1145/3690624.3709224)]
 
 - <span style="color:#337AB7">[**NeurIPS'24**]</span> **Zihan Luo**, Hong Huang, Yongkang Zhou, Jiping Zhang, Nuo Chen, Hai Jin. **Are Your Models Still Fair? Fairness Attacks on Graph Neural Networks via Node Injections.**
-  In *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2024. (<span style="color:#FC4E2A">CCF-A</span>) [[PAPER](https://arxiv.org/abs/2406.03052)] [[CODE](https://github.com/LuoZhhh/NIFA)] [[AI-TIME](https://www.bilibili.com/video/BV1i5UQYNEeX/?share_source=copy_web&vd_source=9196fa9a82ed33188b75c84264f0f084)]
+  In *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2024. (<span style="color:#af5a57">CCF-A</span>) [[PAPER](https://arxiv.org/abs/2406.03052)] [[CODE](https://github.com/LuoZhhh/NIFA)] [[AI-TIME](https://www.bilibili.com/video/BV1i5UQYNEeX/?share_source=copy_web&vd_source=9196fa9a82ed33188b75c84264f0f084)]
 
 - <span style="color:#337AB7">[**NeurIPS'23**]</span> **Zihan Luo**, Hong Huang, Jianxun Lian, Xiran Song, Xing Xie, Hai Jin. **Cross-links Matter for Link Prediction: Rethinking the Debiased GNN from a Data Perspective.**
-  In *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2023. (<span style="color:#FC4E2A">CCF-A</span>) [[PAPER](https://openreview.net/pdf?id=sJDkwMVqb9)] [[CODE](https://github.com/CGCL-codes/Cross-links-Bias)] 
+  In *Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2023. (<span style="color:#af5a57">CCF-A</span>) [[PAPER](https://openreview.net/pdf?id=sJDkwMVqb9)] [[CODE](https://github.com/CGCL-codes/Cross-links-Bias)] 
 
 - <span style="color:#337AB7">[**WWW'23**]</span> Xiran Song, Jianxun Lian, Hong Huang, **Zihan Luo**, Wei Zhou, Xue Lin, Mingqi Wu, Chaozhuo Li, Xing Xie, Hai Jin. **xGCN: An Extreme Graph Convolutional Network for Large-scale Social Link Prediction.**
-  In *ACM Web Conference (WWW)*, 2023. (<span style="color:#FC4E2A">CCF-A</span>) [[PAPER](https://dl.acm.org/doi/10.1145/3543507.3583340)] [[CODE](https://github.com/CGCL-codes/XGCN_library)] [[Youtube](https://www.youtube.com/watch?v=8yedOmd_3Fw)]
+  In *ACM Web Conference (WWW)*, 2023. (<span style="color:#af5a57">CCF-A</span>) [[PAPER](https://dl.acm.org/doi/10.1145/3543507.3583340)] [[CODE](https://github.com/CGCL-codes/XGCN_library)] [[Youtube](https://www.youtube.com/watch?v=8yedOmd_3Fw)]
 
 - <span style="color:#337AB7">[**Journal of Biomedical Informatics**]</span> Rui Yin\*, **Zihan Luo**\*, Pei Zhuang, Chee Keong Kwoh, Zhuoyi Lin. **ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences.**
-  In *Journal of Biomedical Informatics (JBI)*, 2023. (<span style="color:#FC4E2A">CCF-C</span>) [[PAPER](https://www.biorxiv.org/content/biorxiv/early/2022/03/27/2022.03.24.485635.full.pdf)] [[CODE](https://github.com/Rayin-saber/ViPal)]
+  In *Journal of Biomedical Informatics (JBI)*, 2023. (<span style="color:#af5a57">CCF-C</span>) [[PAPER](https://www.biorxiv.org/content/biorxiv/early/2022/03/27/2022.03.24.485635.full.pdf)] [[CODE](https://github.com/Rayin-saber/ViPal)]
 
 - <span style="color:#337AB7">[**WSDM'22**]</span> **Zihan Luo**, Jianxun Lian, Hong Huang, Xing Xie, Hai Jin. **Ada-GNN: Adapting to Local Patterns for Improving Graph Neural Networks.**
-  In *ACM International Conference on Web Search and Data Mining (WSDM)*, 2022. (<span style="color:#FC4E2A">CCF-B</span>) [[PAPER](https://dl.acm.org/doi/abs/10.1145/3488560.3498460)] [[CODE](https://github.com/LuoZhhh/Ada-GNN)]
+  In *ACM International Conference on Web Search and Data Mining (WSDM)*, 2022. (<span style="color:#af5a57">CCF-B</span>) [[PAPER](https://dl.acm.org/doi/abs/10.1145/3488560.3498460)] [[CODE](https://github.com/LuoZhhh/Ada-GNN)]
 
 - <span style="color:#337AB7">[**Current Genomics**]</span> Rui Yin, **Zihan Luo**, Chee Keong Kwoh. **Exploring the Lethality ofHuman-adapted Coronavirus through Alignment-free Machine Learning Approaches Using Genomic Sequences.**
   In *Current Genomics*, 2021. [[PAPER](https://www.benthamdirect.com/content/journals/cg/10.2174/1389202923666211221110857)] [[CODE](https://github.com/Rayin-saber/Alignment-free-lethality-prediction-of-coronavirus)]
 
 - <span style="color:#337AB7">[**Bioinformatics**]</span> Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh. **VirPreNet: A Weighted Ensemble Convolutional Neural Network for the Virulence Prediction of Influenza A Virus Using All Eight Segments.**
-  In *Bioinformatics*, 2021. (<span style="color:#FC4E2A">CCF-A</span>) [[PAPER](https://www.biorxiv.org/content/biorxiv/early/2020/07/31/2020.07.31.230904.full.pdf)] [[CODE](https://github.com/Rayin-saber/VirPreNet)]
+  In *Bioinformatics*, 2021. (<span style="color:#af5a57">CCF-A</span>) [[PAPER](https://www.biorxiv.org/content/biorxiv/early/2020/07/31/2020.07.31.230904.full.pdf)] [[CODE](https://github.com/Rayin-saber/VirPreNet)]
