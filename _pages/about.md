@@ -53,6 +53,9 @@ My research broadly lies at the intersection of **Large Language Models (LLMs)**
 </div>
 
 # 📝 Publications 
+- <span style="color:#337AB7">[**Preprint**]</span> Yujiang Li, Zhenyu Hou, Xiaohan Jia, **Zihan Luo**, Zhilei Bei, Rui Lu, Hong Huang, Jie Tang, Yuxiao Dong. **MLE-RL: Reinforcement Learning for Self-Improvement in Machine Learning Agents.**
+  Under review. [PAPER](https://openreview.net/forum?id=nElqyHPHAz)[[CODE](https://github.com/liyujian20/MLE-RL)]
+
 - <span style="color:#337AB7">[**Preprint**]</span> **Zihan Luo**, Lingkui Chen, Ruike Zhang, Hong Huang, Boyang Zhang, Ziniu Chen, Lizhong Wang. **ToolRec: Calibrated Preference Alignment for Query Recommendation in On-Device Assistants.**
   Under review. [[PAPER](https://arxiv.org/abs/2606.08466)]
 
