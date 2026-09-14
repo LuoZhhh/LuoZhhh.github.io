@@ -31,6 +31,9 @@ My research broadly lies at the intersection of **Large Language Models (LLMs)**
 <div style="max-height: 180px; overflow-y: auto; padding: 15px; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 20px; background-color: #fafafa;">
   <ul style="margin: 0; padding-left: 20px;">
     <li style="margin-bottom: 10px;">
+      <span style="color:#af5a57"><b>[2026.09]</b></span>: &nbsp; I am invited to serve as the reviewer for <b>WWW 2027</b>.
+    </li>
+    <li style="margin-bottom: 10px;">
       <span style="color:#af5a57"><b>[2026.06]</b></span>: &nbsp; <a href="https://arxiv.org/abs/2606.08466" target="_blank">ToolRec</a> is released on arxiv. Please check out!
     </li>
     <li style="margin-bottom: 10px;">
