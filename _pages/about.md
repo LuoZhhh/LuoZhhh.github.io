@@ -33,6 +33,9 @@ I am deeply passionate about building AI systems that are not only intelligent b
 <div style="max-height: 180px; overflow-y: auto; padding: 15px; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 20px; background-color: #fafafa;">
   <ul style="margin: 0; padding-left: 20px;">
     <li style="margin-bottom: 10px;">
+      <span style="color:#af5a57"><b>[2026.10]</b></span>: &nbsp; <a href="https://arxiv.org/abs/2610.38204" target="_blank">Skill-Uni</a> is released on arxiv. Please check out!.
+    </li>
+    <li style="margin-bottom: 10px;">
       <span style="color:#af5a57"><b>[2026.09]</b></span>: &nbsp; I am invited to serve as the reviewer for <b>WWW 2027</b>.
     </li>
     <li style="margin-bottom: 10px;">
@@ -57,6 +60,9 @@ I am deeply passionate about building AI systems that are not only intelligent b
 </div>
 
 # 📝 Publications 
+- <span style="color:#337AB7">[**Preprint**]</span> **Zihan Luo**, Jiahui Kang, Wei Zhou, Qilin Fan, Mingyan Li, Chao Chen. **Two Birds with One Stone: Skill-Augmented Generation via Unified Retrieval and Utilization.**
+  Under review. [[PAPER](https://arxiv.org/abs/2610.38204)]
+
 - <span style="color:#337AB7">[**Preprint**]</span> Yujiang Li, Zhenyu Hou, Xiaohan Jia, **Zihan Luo**, Zhilei Bei, Rui Lu, Hong Huang, Jie Tang, Yuxiao Dong. **MLE-RL: Reinforcement Learning for Self-Improvement in Machine Learning Agents.**
   Under review. [[PAPER](https://openreview.net/forum?id=nElqyHPHAz)][[CODE](https://github.com/liyujian20/MLE-RL)]
 
