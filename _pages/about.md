@@ -22,7 +22,7 @@ Hello, I am Zihan Luo, currently an Assistant Researcher at Chongqing University
 
 I am deeply passionate about building AI systems that are not only intelligent but also robust, reliable, and beneficial to society. My current research focuses on:
 
-*   **Trustworthy AI:** Enhancing the fairness, robustness, interpretability, and safety of AI.
+*   **Societal AI:** Integrating and exploring AI with sociology to develop responsible and human-centered solutions to societal challenges.
 *   **Agentic AI:** Exploring, calibrating, and aligning the capability of AI agents in complex scenarios.
 
 ><b style="color:#af5a57"> I am always on the lookout for highly self-motivated undergraduate and graduate students to join my research group. If you are passionate about LLMs, data mining, or trustworthy AI, and are driven by a strong curiosity to solve impactful real-world problems, I would love to hear from you! Please feel free to drop me an email with your CV and a brief introduction of your background.
